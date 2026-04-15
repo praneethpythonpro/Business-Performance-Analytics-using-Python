@@ -1,1 +1,1 @@
-# Business-Performance-Analytics-using-Python
+# This project demonstrates intermediate business analytics using Python. It analyzes monthly sales, expenses, and profit trends with Pandas, NumPy, and Matplotlib. The script calculates key performance metrics, generates summary insights, and visualizes profit growth. Useful for learning data-driven decision-making and financial performance analysis in business.
